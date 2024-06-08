@@ -46,14 +46,17 @@ It refes to testing the sofware against user requirements to be sure that it mee
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.It refers to the process of tracking changes in a software code. An example is git .is features are it is scalable,branching is easier, its free and open source.
 Software Project Management:It refers to the planning and supervising software projects
 
-Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
+Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?  They are responsible for planning and supervising software projects
 
-Software Maintenance:
+Software Maintenance:Refers to the process of changing, updating softwares to ensure that it meets user needs.
 
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
-Ethical Considerations in Software Engineering:
+Ethical Considerations in Software Engineering :Refers to the process of changing, updating softwares to ensure that it meets user needs
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+undefined user needs
+Unrealistic deadline for project submission
+poor badjeting 
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
